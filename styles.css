@@ -1,1 +1,17 @@
 /* your code */
+tbody,th,td,tbody,table{
+	/* border : 1px solid rgb(0,0,0) */
+	
+}
+table{
+	width:75%;
+	height:30%;
+	text-align:center;
+	/* border: 1px solid black; */
+	
+}
+thead{
+	color : white;
+	background-color:blue
+}
+tr:nth-child(even) {background-color: grey;}
